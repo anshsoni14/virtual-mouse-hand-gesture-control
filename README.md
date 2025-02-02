@@ -4,5 +4,5 @@ and if you want to preform right cilck then close the mid finger and thumb
 and for left cilck close the index finger and thumb
 **note** download all the module then only it will work 
 pip install opencv-python mediapipe pyautogui 
-paste this upper line on your cmd 
+paste this upper line in your cmd 
 
